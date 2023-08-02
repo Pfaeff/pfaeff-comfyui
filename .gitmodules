@@ -1,0 +1,3 @@
+[submodule "pixeldetector"]
+	path = pixeldetector
+	url = https://github.com/Astropulse/pixeldetector

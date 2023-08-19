@@ -19,3 +19,9 @@ Simply drag one of the images into ComfyUI after installation.
 ### Aspect ratio preserving SDXL Pixelart workflow
 
 ![Aspect ratio preserving SDXL Pixelart workflow](workflows/SDXL_pixelart_preserve_aspect_ratio.png)
+
+### img2pixelart
+
+This one doesn't even require any of the custom nodes:
+
+![img2pixelart](workflows/SDXL_img2pixelart.png)
